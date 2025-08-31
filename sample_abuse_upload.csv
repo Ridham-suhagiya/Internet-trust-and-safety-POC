@@ -1,0 +1,6 @@
+domain_name,abuse_type,report_source,confidence_score
+login-secure-online.online,Phishing,Threat Intelligence,100
+virus-scan-now.online,Malware,External API,95
+free-rewards.online,Spam,User Report,80
+invoice-payment-app.online,Phishing,Customer Service,100
+download-update-app.online,Malware,External API,90
